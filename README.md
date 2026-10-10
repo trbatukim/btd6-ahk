@@ -36,4 +36,4 @@ For more specification you need to change the following lines:
 
 ## License
 
-See [LICENSE].
+See [LICENSE](LICENSE).
